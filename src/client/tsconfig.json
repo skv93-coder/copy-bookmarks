@@ -1,0 +1,7 @@
+{
+  "compilerOption": {
+    "modularResolution": "node",
+    "strict": true
+  },
+  "include": ["**/*.ts"]
+}
